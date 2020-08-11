@@ -3,7 +3,7 @@ Brain Teaser
 This is a math quiz challenge. 
 You have 60 seconds to answer 5 questions.
 
-(https://github.com/sxiong6901/codeQuiz/blob/master/Assets/Capture.PNG?raw=true)
+![myimage-alt-tag](https://github.com/sxiong6901/Quiz/blob/master/Assets/Capture.PNG?raw=true)
 
 Game is over if you do not answer all of the questions within the given timeframe.
 
